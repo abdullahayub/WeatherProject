@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "farsi";
+    font-display:"auto";
+    src: url("fonts/Vazir.eot");
+    src: 
+    url("../fonts/Vazir.woff") format("woff"),
+    url("../fonts/Vazir.otf") format("opentype"),
+    url("../fonts/Vazir.svg#filename") format("svg");
+    }
+    
+    
+    .farsi {
+    font-family: 'farsi';
+    font-weight:normal;
+    font-style:normal;
+    }
+    
+    body{
+        font-family: 'farsi';
+    }
+
+    input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+        font-family: 'farsi';
+      }
+      input::-moz-placeholder { /* Firefox 19+ */
+        font-family: 'farsi';
+      }
+      input:-ms-input-placeholder { /* IE 10+ */
+        font-family: 'farsi';
+      }
+      input:-moz-placeholder { /* Firefox 18- */
+        font-family: 'farsi';
+      }
+      textarea{
+        font-family: 'farsi';
+      }
