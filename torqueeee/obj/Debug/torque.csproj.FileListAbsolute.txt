@@ -1,0 +1,49 @@
+D:\Bahria University\visual studio programms\torque\bin\Debug\logindb.mdf
+D:\Bahria University\visual studio programms\torque\bin\Debug\logindb_log.ldf
+D:\Bahria University\visual studio programms\torque\bin\Debug\torque.exe.config
+D:\Bahria University\visual studio programms\torque\bin\Debug\torque.exe
+D:\Bahria University\visual studio programms\torque\bin\Debug\torque.pdb
+D:\Bahria University\visual studio programms\torque\obj\Debug\torque.torqueform.resources
+D:\Bahria University\visual studio programms\torque\obj\Debug\torque.signupform.resources
+D:\Bahria University\visual studio programms\torque\obj\Debug\torque.Loginform.resources
+D:\Bahria University\visual studio programms\torque\obj\Debug\torque.Properties.Resources.resources
+D:\Bahria University\visual studio programms\torque\obj\Debug\torque.csproj.GenerateResource.cache
+D:\Bahria University\visual studio programms\torque\obj\Debug\torque.csproj.CoreCompileInputs.cache
+D:\Bahria University\visual studio programms\torque\obj\Debug\torque.exe
+D:\Bahria University\visual studio programms\torque\obj\Debug\torque.pdb
+D:\Bahria University\visual studio programms\torque\obj\Debug\torque.csprojAssemblyReference.cache
+D:\Bahria University\visual studio programms\torque\obj\Debug\torque.landingpage.resources
+D:\torqueeee\bin\Debug\torque.exe.config
+D:\torqueeee\obj\Debug\torque.exe
+D:\torqueeee\obj\Debug\torque.pdb
+D:\torqueeee\bin\Debug\logindb.mdf
+D:\torqueeee\bin\Debug\logindb_log.ldf
+D:\torqueeee\bin\Debug\torque.exe
+D:\torqueeee\bin\Debug\torque.pdb
+D:\torqueeee\obj\Debug\torque.csprojResolveAssemblyReference.cache
+D:\torqueeee\obj\Debug\torque.torqueform.resources
+D:\torqueeee\obj\Debug\torque.signupform.resources
+D:\torqueeee\obj\Debug\torque.landingpage.resources
+D:\torqueeee\obj\Debug\torque.Loginform.resources
+D:\torqueeee\obj\Debug\torque.Properties.Resources.resources
+D:\torqueeee\obj\Debug\torque.csproj.GenerateResource.Cache
+D:\torqueeee\bin\Debug\Torque.mdf
+D:\torqueeee\bin\Debug\Torque_log.ldf
+C:\Users\ajwa\Desktop\torqueeee\bin\Debug\torque.exe.config
+C:\Users\ajwa\Desktop\torqueeee\obj\Debug\torque.exe
+C:\Users\ajwa\Desktop\torqueeee\obj\Debug\torque.pdb
+C:\Users\ajwa\Desktop\torqueeee\bin\Debug\logindb.mdf
+C:\Users\ajwa\Desktop\torqueeee\bin\Debug\logindb_log.ldf
+C:\Users\ajwa\Desktop\torqueeee\bin\Debug\Torque.mdf
+C:\Users\ajwa\Desktop\torqueeee\bin\Debug\Torque_log.ldf
+C:\Users\ajwa\Desktop\torqueeee\bin\Debug\torque.exe
+C:\Users\ajwa\Desktop\torqueeee\bin\Debug\torque.pdb
+C:\Users\ajwa\Desktop\torqueeee\obj\Debug\torque.csprojResolveAssemblyReference.cache
+C:\Users\ajwa\Desktop\torqueeee\obj\Debug\torque.torqueform.resources
+C:\Users\ajwa\Desktop\torqueeee\obj\Debug\torque.signupform.resources
+C:\Users\ajwa\Desktop\torqueeee\obj\Debug\torque.landingpage.resources
+C:\Users\ajwa\Desktop\torqueeee\obj\Debug\torque.Loginform.resources
+C:\Users\ajwa\Desktop\torqueeee\obj\Debug\torque.Properties.Resources.resources
+C:\Users\ajwa\Desktop\torqueeee\obj\Debug\torque.csproj.GenerateResource.Cache
+C:\Users\ajwa\Desktop\torqueeee\obj\Debug\torque.Form4.resources
+C:\Users\ajwa\Desktop\torqueeee\obj\Debug\torque.Admin.resources
